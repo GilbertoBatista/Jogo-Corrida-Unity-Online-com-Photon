@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/RoadConstrucaoTeste.unity
+    path: Assets/Scenes/SimpleRace.unity
     guid: 60d30c3bfa3368e4ca726f84c5e29af9
   m_configObjects: {}
